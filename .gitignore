@@ -1,0 +1,9 @@
+.DS_Store
+.idea
+*.log
+tmp/
+*.txt
+*.exe
+*.Lib
+*.dll
+*.obj
